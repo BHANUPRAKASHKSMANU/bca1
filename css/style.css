@@ -1,0 +1,52 @@
+/* Core CSS for GM University BCA Blogging Platform */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.4;
+  margin: 0;
+  padding: 0;
+  background: #f6f6f6;
+  color: #222;
+}
+#container {
+  max-width: 980px;
+  margin: 0 auto;
+  background: #fff;
+  padding: 16px;
+}
+header .brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}  label { display: block; width: auto; margin-bottom: 6px; }  input[type="text"], textarea { width: 100%; }@media (max-width:600px) {footer { margin-top: 18px; font-size: 0.9em; color: #555; }.feedback.valid { color: #0a0; }input[type="submit"]:hover { background: #0055a3; }
+n.feedback { margin-left: 8px; font-size: 0.9em; }
+n.feedback.invalid { color: #d00; }input[type="submit"] { padding: 8px 14px; background: #0066cc; color: #fff; border: none; border-radius: 3px; cursor: pointer; }input[type="text"], textarea { border: 1px solid #ccc; padding: 6px; width: 60%; }form p { margin: 8px 0; }
+nlabel { display: inline-block; width: 100px; vertical-align: top; }th { background: #f0f0f0; }th, td { padding: 8px; text-align: left; }table, th, td { border: 1px solid #ddd; }table { border-collapse: collapse; width: 100%; margin-top: 12px; }.posts { margin: 0 0 16px 1.2em; }.welcome { font-size: 1.1em; font-weight: bold; margin-bottom: 6px; }.hero { background: #eef6ff; border: 1px solid #d6eaff; padding: 12px; margin-top: 12px; }ul.navlist a:hover { background: #004a99; }ul.navlist a { text-decoration: none; padding: 6px 10px; background: #0066cc; color: #fff; border-radius: 3px; }ul.navlist li { display: inline-block; margin-right: 12px; }}  padding: 0;  margin: 0;  list-style: none;nav { margin-top: 10px; }
+nul.navlist {h1 { margin: 0; font-size: 1.4em; }nheader img { max-height:48px; }
